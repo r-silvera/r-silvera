@@ -1,6 +1,6 @@
 ### Bienvenidos, soy Robertino Silvera - aka Tino 👋
 
-## Soy estudiante de la Tecnicatura en Informatica en la Universidad de Hurlingham
+## Soy estudiante en la Tecnicatura en Informatica de la Universidad de Hurlingham
 
 - 🔭 Soy un programador freelancer en busca de alguna oferta laboral
 - 🌱 Actualmente me encuentro estudiando varias cosas 🤣
