@@ -1,4 +1,4 @@
-### Bienvenidos, soy Robertino Silvera - aka [Tino] 👋
+### Bienvenidos, soy Robertino Silvera - aka Tino 👋
 
 ## Soy estudiante de la Tecnicatura en Informatica en la Universidad de Hurlingham
 
