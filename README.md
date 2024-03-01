@@ -2,10 +2,10 @@
 
 ## Soy estudiante en la Tecnicatura en Informatica de la Universidad de Hurlingham
 
-- 🔭 Soy un desarrollador java que trabaja para @NttData
-- 🌱 Actualmente me encuentro profundizando mis conocimientos en Angular y IA.
+- 🔭 Soy un desarrollador java que trabaja para @Vantek
+- 🌱 Actualmente me encuentro profundizando mis conocimientos en IA.
 - 👯 Me encanta contribuir con otros desarrolladores
-- 🥅 2023 Goals: Desarrollar proyectos a gran escala.
-- ⚡ Pasatiempos: me encanta jugar videojuegos y escuchar musica.
+- 🥅 2024 Goals: Desarrollar un proyecto a gran escala.
+- ⚡ Pasatiempos: Escuchar musica y programar.
 
 
