@@ -1,6 +1,6 @@
 ### Bienvenidos, soy Robertino Silvera - aka Tino 👋
 
-## Soy estudiante en la Tecnicatura en Informatica de la Universidad de Hurlingham
+## Soy estudiante en la Licenciatura en Informatica de la Universidad de Hurlingham
 
 - 🔭 Soy un desarrollador java que trabaja para @Vantek
 - 🌱 Actualmente me encuentro profundizando mis conocimientos en IA.
